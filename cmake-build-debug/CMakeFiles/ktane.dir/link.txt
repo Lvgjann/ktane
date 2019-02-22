@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ktane.dir/src/main.cpp.o CMakeFiles/ktane.dir/src/Wire.cpp.o CMakeFiles/ktane.dir/src/appli.cpp.o CMakeFiles/ktane.dir/src/instruction.cpp.o CMakeFiles/ktane.dir/src/module.cpp.o  -o ktane 
